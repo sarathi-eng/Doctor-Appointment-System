@@ -73,7 +73,7 @@ A secure, full-stack healthcare appointment management system built with modern 
 
 1. **Clone and setup**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sarathi-eng/Doctor-Appointment-System
    cd doctor-appointment-system
    npm install
    ```
